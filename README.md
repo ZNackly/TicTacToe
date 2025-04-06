@@ -22,4 +22,4 @@
 
 ### 1. Клонировать репозиторий
 ```bash
-git clone https://github.com/ZNackly/tic-tac-toe-javafx.git
+git clone https://github.com/ZNackly/TicTacToe.git

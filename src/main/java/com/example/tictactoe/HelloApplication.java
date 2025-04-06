@@ -11,6 +11,7 @@ import javafx.scene.layout.GridPane;
 import javafx.stage.Stage;
 
 public class HelloApplication extends Application {
+    primaryStage.getIcons().add(new Image(getClass().getResourceAsStream("/icon.jpg")));
     private static final int SIZE = 3;
     private Button[][] buttons = new Button[SIZE][SIZE];
     private char currentPlayer = 'X';

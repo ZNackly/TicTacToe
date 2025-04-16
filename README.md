@@ -1,6 +1,6 @@
 # Крестики-нолики на JavaFX
 
-[![Java](https://img.shields.io/badge/Java-17%2B-orange)](https://www.java.com)
+[![JDK](https://img.shields.io/badge/Java-17%2B-orange)](https://www.java.com)
 [![JavaFX](https://img.shields.io/badge/JavaFX-17-blue)](https://openjfx.io/)
 
 Простая реализация игры "Крестики-нолики".

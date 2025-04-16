@@ -3,7 +3,7 @@
 [![Java](https://img.shields.io/badge/Java-17%2B-orange)](https://www.java.com)
 [![JavaFX](https://img.shields.io/badge/JavaFX-17-blue)](https://openjfx.io/)
 
-Простая реализация классической игры "Крестики-нолики" с графическим интерфейсом на JavaFX.
+Простая реализация игры "Крестики-нолики".
 
 
 
